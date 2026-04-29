@@ -3,7 +3,8 @@
 A Distributed Background Task Processing System written in Go, using Redis for job queuing.
 
 **High level overview**
-    ![overview](GoQueue.png)
+    <img width="3232" height="1485" alt="image" src="https://github.com/user-attachments/assets/888359ac-6193-49f1-ae62-9f3bb34e880e" />
+
 
 
 ## What's the need for this?
