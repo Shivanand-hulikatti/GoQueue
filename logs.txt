@@ -1,0 +1,2 @@
+
+ SUCCESS: Task type: send_email Task payload: {"subject":"hello","to":"test@example.com"} Retries left: 3
